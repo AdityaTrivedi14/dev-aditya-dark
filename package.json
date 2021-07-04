@@ -1,0 +1,34 @@
+{
+    "name": "dev-aditya-dark",
+    "displayName": "Dev Aditya Dark",
+    "description": "Developers Community Theme!",
+    "version": "0.0.1",
+    "publisher": "AdityaTrivedi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AdityaTrivedi14/dev-aditya-dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Dev Aditya Dark",
+        "Dev Aditya",
+        "Aditya Trivedi",
+        "Developers Community"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dev Aditya Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dev Aditya Dark-color-theme.json"
+            }
+        ]
+    }
+}
